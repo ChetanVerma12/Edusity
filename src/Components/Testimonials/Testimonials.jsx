@@ -1,4 +1,4 @@
-import './testimonials.css'
+import './Testimonials.css'
 import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
 import user1_icon from '../../assets/user-1.png'
